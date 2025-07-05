@@ -15,4 +15,4 @@
 
 In IEEE TASLP-24 [paper]() [1] addresses the sub-optimality of current post-training quantization (PTQ) and quantization-aware training (QAT) methods for state-of-the-art speaker verification (SV) models
 
-# Repo will be updated shortly
+# Repo is shifted to [ https://github.com/cyborgman-g/MTSQ-2SQAT ]
